@@ -495,34 +495,6 @@ h2 {
     width: 240px;
     height: 218px;
   }
-  .card .card_ml {
-    text-align: center;
-    margin-top: 24px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-  }
-  .card .card_rob {
-    text-align: center;
-    margin-top: 24px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-  }
-  .card .card_nl {
-    text-align: center;
-    margin-top: 24px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-  }
-  .card .card_cv {
-    text-align: center;
-    margin-top: 24px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-  }
 }
 @media screen and (max-width: 480px) {
   h1 {
